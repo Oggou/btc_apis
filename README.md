@@ -1,6 +1,6 @@
 # btc_apis
 
-Repo for BTC data collection and chart generation APIs. (This updates the minimal README content you had: “repo for BTC data collection APIs”.)
+Repo for BTC data collection and chart generation APIs. You will need a VPN to run this from the US. 
 
 ## Quick Start
 
