@@ -2,10 +2,6 @@
 
 Repo for BTC data collection and chart generation APIs. You will need a VPN to run this from the US. 
 
-## Quick Start
-
-> Requires Python 3.9+ and `pip`. On Windows, you can use WSL or PowerShell.
-
 ### 1) Setup a virtual environment
 **Linux/macOS/WSL**
 ```bash
